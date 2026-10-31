@@ -1,2 +1,3 @@
 # supply-chain-intelligence
-Projeto de análise de dados de Supply Chain com SQL Server, Python e Power BI.
+Projeto de análise de dados de Supply Chain com SQL Server, Python e Power BI
+Initial project setup
