@@ -1,2 +1,2 @@
 # supply-chain-intelligence
-End-to-end supply chain analytics project using SQL Server, Python and Power BI.
+Projeto de análise de dados de Supply Chain com SQL Server, Python e Power BI.
